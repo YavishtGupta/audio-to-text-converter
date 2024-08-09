@@ -7,7 +7,7 @@ This Python script converts a audio file into text by converting it to the appro
   -speech_recognition
   -pydub
 
-Install Required Library: Open your terminal (or command prompt), and Install the google-images-search library by running the following command: "pip install speechrecognition pydub"
+Install Required Library: Open your terminal (or command prompt), and Install the required libraries by running the following command: "pip install speechrecognition pydub"
 Install FFMPEG: FFmpeg: Required by pydub. Download and install from https://ffmpeg.org/download.html.
 
 Use: -run the .py file and provide the required inputs
